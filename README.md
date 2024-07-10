@@ -1,7 +1,8 @@
  Business Insights 360 - Power BI Project 
 
  Live Dashboard:
- Feel free to explore the Dashboard : https://app.powerbi.com/groups/me/reports/1848e930-4d35-4bd9-b6eb-aa506bf25887/7c99bd2a9eeb052e19f7?experience=power-bi
+ 
+ - Feel free to explore the Dashboard : https://app.powerbi.com/groups/me/reports/1848e930-4d35-4bd9-b6eb-aa506bf25887/7c99bd2a9eeb052e19f7?experience=power-bi
 
 Dashboard Overview:
 - A high-level summary of critical business metrics.
