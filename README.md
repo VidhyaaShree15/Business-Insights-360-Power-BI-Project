@@ -1,4 +1,4 @@
-** Business Insights 360 - Power BI Project **
+ Business Insights 360 - Power BI Project 
 
 Dashboard Overview:
 - A high-level summary of critical business metrics.
