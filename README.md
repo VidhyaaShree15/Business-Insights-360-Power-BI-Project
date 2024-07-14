@@ -2,7 +2,8 @@
 
 ## Live Dashboard:
  
- - Feel free to explore the Dashboard : [Live Dashboard] (https://app.powerbi.com/view?r=eyJrIjoiZWEyNmYxOTQtYTBlNi00MTg0LTg3ZWMtZDM0OGRkMTJmYzA3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+ - Feel free to explore the Dashboard : [View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZWEyNmYxOTQtYTBlNi00MTg0LTg3ZWMtZDM0OGRkMTJmYzA3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 
 ## Dashboard Overview:
 - A high-level summary of critical business metrics.
